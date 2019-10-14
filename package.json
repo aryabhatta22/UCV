@@ -1,0 +1,14 @@
+{
+  "name": "ucv",
+  "version": "1.0.0",
+  "description": "RTC based movement of a solar panel",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon script.js"
+  },
+  "author": "Tarun Sharma, Ashutosh Dwivedi, Aima Juveria",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^7.1.5"
+  }
+}
