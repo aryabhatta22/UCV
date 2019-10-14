@@ -4,7 +4,7 @@
   "description": "RTC based movement of a solar panel",
   "main": "script.js",
   "scripts": {
-    "start": "nodemon script.js"
+    "start": "nodemon script.js COM5"
   },
   "author": "Tarun Sharma, Ashutosh Dwivedi, Aima Juveria",
   "license": "ISC",
