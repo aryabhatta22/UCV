@@ -7,7 +7,7 @@ const secondsDiff = 00;
 
 //------- Function definitions ----------
 
-exports.USTtoIST = UCTtime => {
+exports.UCTtoIST = UCTtime => {
   //slicing the UCT time
   let hrs = parseInt(UCTtime.slice(0, 2));
   let minutes = parseInt(UCTtime.slice(3, 5));
